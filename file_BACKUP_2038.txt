@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+"branch 1" 
+=======
+"brench 1" 
+>>>>>>> 73fbafe (add branch1 in branch 1)
